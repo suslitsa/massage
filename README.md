@@ -1,2 +1,2 @@
 # https://suslitsa.github.io/massage/
-massage
+massage\одностраничник.лендинг/ Landing
